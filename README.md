@@ -8,16 +8,15 @@
 <!--- Label --->
 <!--- ELabel ---> 
 <!--- Name:module: --->
-#module 
+# ALBASE1208
 <!--- LongName --->
-module description
 <!--- ELongName ---> 
 
 <!--- Lead --->
-module lead text
+This base board has size 12x08 holes and standard MLAB grid 400mils (10.16mm). It is especially suited for simple measuring instruments and mobile robots constructions. 
 <!--- ELead ---> 
 
-![LeadImg](doc/img/module_top_big.jpg) 
+![canvas](https://user-images.githubusercontent.com/5196729/236950817-fc8c65db-9001-470b-a66e-3f669eee1a31.png)
 
 
 <!--- Description --->
